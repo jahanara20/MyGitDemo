@@ -1,2 +1,3 @@
 # MyGitDemo
-my git demo first repository
+This is my git demo first repository
+Author:-- Jahanara
